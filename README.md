@@ -1,5 +1,13 @@
 # PSByPassCLM
 Bypass for PowerShell Constrained Language Mode
+--------------------------------------------------------------------------------
+This repo has a minor tweak. 
+I have disabled the amsibyscan scan which didnt work in my test lab and stopped the code execution.
+The new repo is still capable for creating a powershell console which bypasses Constrained Language mode :)
+---------------------------------------------------------------
+
+CREDIT goes to the author.
+
 
 ## Description and references 
 This technique might come in handy wherever or whenever you're stuck in a low privilege PS console  
