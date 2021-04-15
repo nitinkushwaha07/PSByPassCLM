@@ -7,3 +7,12 @@ C:\temp2\temp\SharpUp\PsBy2\obj\Debug\PsBypassCLM.pdb
 C:\temp2\temp\PSBypassCLM\PSBypassCLM\bin\Debug\PsBypassCLM.exe.config
 C:\temp2\temp\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.exe
 C:\temp2\temp\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.pdb
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.exe
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.pdb
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\bin\Debug\PsBypassCLM.exe.config
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\bin\Debug\PsBypassCLM.exe
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\bin\Debug\PsBypassCLM.pdb
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\bin\Debug\System.Management.Automation.dll
+C:\Users\nitin\source\repos\PSByPassCLMFinal\PSBypassCLM\PSBypassCLM\obj\Debug\PsBypassCLM.csproj.CopyComplete

@@ -29,7 +29,7 @@ namespace PsBypassCostraintLanguageMode
             // OLD ** string Arch = System.Environment.GetEnvironmentVariable("PROCESSOR_ARCHITECTURE");
             // OLD ** AmsiBypass.Amsi(Arch);
             // NEW ** https://github.com/rasta-mouse/AmsiScanBufferBypass/blob/master/ASBBypass/Program.cs
-            AmsiBypass.Disable();
+            //AmsiBypass.Disable();
 
             // set execution policy to Unrestricted for current process
             // this should bypass costraint language mode from the low priv 'ConstrainedLanguage' to our beloved 'FullLanguage'
